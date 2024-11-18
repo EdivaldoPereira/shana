@@ -1,1 +1,1 @@
-# Site simples criado para a psicóloga Shana Figueira
+# Site simples criado para atender à psicóloga Shana Figueira.
